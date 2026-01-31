@@ -1,0 +1,11 @@
+{
+  "name": "xray-installer-web",
+  "version": "1.0.0",
+  "description": "A simple Node.js server to serve the Xray installer script",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
